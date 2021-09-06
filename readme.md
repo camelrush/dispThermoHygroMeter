@@ -25,6 +25,6 @@ DTH11(温湿度計)を利用した、SSD1306 有機LEディスプレイの表示
 以下の通り、コマンドを実行します。
   > python3 dispThermoHygroMeter.py
 
-下図のように温度表示されます。
+下図のように温度表示されます。  
 <img src="./doc/thermal_disp.gif"></src>
 
