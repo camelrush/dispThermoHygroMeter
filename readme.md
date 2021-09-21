@@ -4,7 +4,7 @@ DTH11(温湿度計)を利用した、SSD1306 有機LEディスプレイの表示
 ## 事前準備
 
 - 以下のコマンドで、SSD1306用のライブラリをインストールする
-  > pip3 isntall adafruit-circuitpython-ssd1306
+  > pip3 install adafruit-circuitpython-ssd1306
   
 - 以下のコマンドを実行し、表示用のフォント(Noto)をインストールする
   > sudo apt-get install fonts-noto
